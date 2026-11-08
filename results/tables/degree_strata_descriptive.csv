@@ -1,0 +1,5 @@
+degree_stratum,degree_lower_bound_mean,degree_upper_bound_mean,candidate_count_mean,positive_count_mean,negative_count_mean,positive_prevalence_mean
+Q1,0.0,2.0,7915.8,256.3,7659.5,0.03236899072164364
+Q2,2.0,3.5,7011.1,282.9,6728.2,0.04035824425399185
+Q3,3.5,7.0,7555.7,604.1,6951.6,0.07998059291789897
+Q4,7.0,60.8,7041.4,1540.7,5500.7,0.21882242604549473

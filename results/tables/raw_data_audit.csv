@@ -1,0 +1,6 @@
+Audit item,Count
+Raw edge records,28980
+Self-loop records removed,12
+Repeated/reversed non-loop records removed,14484
+Unique edges in cleaned simple graph,14484
+Unique vertices,5242

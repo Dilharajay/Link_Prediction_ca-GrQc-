@@ -1,0 +1,8 @@
+Measurement,Value
+Vertices in LCC,4158.0
+Cleaned edges in LCC,13422.0
+Raw records with both endpoints in LCC,26850.0
+Self-loop records inside LCC,6.0
+Connected components in cleaned full graph,355.0
+LCC node coverage (%),79.32086989698588
+LCC edge coverage (%),92.66777133388567
